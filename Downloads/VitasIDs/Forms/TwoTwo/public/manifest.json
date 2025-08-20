@@ -1,0 +1,27 @@
+{
+  "name": "Luminous Touch - منتجات العناية بالبشرة",
+  "short_name": "Luminous Touch",
+  "description": "متجر منتجات العناية بالبشرة - يعمل أوفلاين",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f4f0",
+  "theme_color": "#d4a574",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["shopping", "beauty", "lifestyle"],
+  "lang": "ar",
+  "dir": "rtl"
+}
